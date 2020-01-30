@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="pets_v1_create" translatable="false">
+        <![CDATA[
+        CREATE TABLE pets (id INTEGER PRIMARY KEY AUTOINCREMENT, name VARCHAR, age INTEGER, type INTEGER)
+        ]]>
+    </string>
+
+</resources>

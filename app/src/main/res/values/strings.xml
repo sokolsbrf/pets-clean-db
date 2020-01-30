@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="pet_name">Кличка:</string>
+    <string name="pet_age">Возраст, лет:</string>
+    <string name="pet_type">Вид питомца:</string>
+    <string name="add_pet">Добавить</string>
+
+    <string name="error_bad_age">Питомец не может иметь такого возраста</string>
+
+    <string-array name="pet_types">
+        <item>Собака</item>
+        <item>Кошка</item>
+        <item>Хомячок</item>
+    </string-array>
+</resources>
